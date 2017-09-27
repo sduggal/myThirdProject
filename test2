@@ -1,0 +1,21 @@
+ Volume in drive C has no label.
+ Volume Serial Number is FE9D-BB23
+
+ Directory of C:\Users\Sduggal\Desktop\myThirdProject
+
+09/27/2017  04:26 PM    <DIR>          .
+09/27/2017  04:26 PM    <DIR>          ..
+09/27/2017  04:24 PM    <DIR>          .git
+09/17/2017  08:33 PM               806 .gitignore
+09/17/2017  08:33 PM               317 .travis.yml
+09/22/2017  06:49 PM    <DIR>          app
+09/17/2017  08:33 PM               316 build.gradle
+09/22/2017  06:49 PM    <DIR>          gradle
+09/17/2017  08:33 PM             5,244 gradlew
+09/17/2017  08:33 PM             2,404 gradlew.bat
+09/17/2017  08:33 PM             1,028 README.md
+09/17/2017  08:33 PM                16 settings.gradle
+09/27/2017  04:26 PM               871 test1.txt
+09/27/2017  04:26 PM                 0 test2
+               9 File(s)         11,002 bytes
+               5 Dir(s)  91,428,401,152 bytes free
